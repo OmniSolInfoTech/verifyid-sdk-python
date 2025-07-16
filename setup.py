@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name="verifyid-sdk-python",
-    version="1.0.0",
+    version="1.0.4",
     description="Official Python SDK for VerifyID.io KYC, AML, Biometric and Document Verification APIs.",
     author="Philip Csaplar",
     author_email="your@email.com",
-    url="https://github.com/ositid/verifyid-python-sdk",
+    url="https://github.com/OmniSolInfoTech/verifyid-sdk-python",
     packages=find_packages(),
     install_requires=[
         "requests>=2.20.0"

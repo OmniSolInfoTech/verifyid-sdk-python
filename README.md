@@ -1,6 +1,6 @@
 # VerifyID Python SDK
 
-[![PyPI - Version](https://img.shields.io/pypi/v/verifyid.svg)](https://pypi.org/project/verifyid/)
+[![PyPI - Version](https://img.shields.io/pypi/v/verifyid-sdk-python.svg)](https://pypi.org/project/verifyid-sdk-python/)
 
 Official Python SDK for [VerifyID.io](https://api.verifyid.io) – seamless integration for KYC, AML, biometric, and document verification.
 
@@ -22,7 +22,7 @@ pip install verifyid-sdk-python
 ```
 ## From Source
 ```bash
-git clone https://github.com/ositid/verifyid-python-sdk.git
+git clone https://github.com/OmniSolInfoTech/verifyid-sdk-python.git
 cd verifyid-python-sdk
 pip install .
 ```
