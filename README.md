@@ -18,7 +18,7 @@ Official Python SDK for [VerifyID.io](https://api.verifyid.io) – seamless inte
 
 **Via pip (recommended):**
 ```bash
-pip install verifyid
+pip install verifyid-sdk-python
 ```
 ## From Source
 ```bash
